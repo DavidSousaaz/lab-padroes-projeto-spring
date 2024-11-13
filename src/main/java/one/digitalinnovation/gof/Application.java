@@ -13,6 +13,8 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
  * - OpenFeign
  * 
  * @author falvojr
+ * 
+ * @version DavidSousaaz
  */
 @EnableFeignClients
 @SpringBootApplication
